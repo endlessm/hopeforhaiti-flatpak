@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Les Adventures de Marie Terese
+Comment=Adventure game
+Exec=LesAdventuresDeMarieTerese
+Icon=com.github.HopeForHaiti.LesAdventuresDeMarieTerese
+Categories=Game;ActionGame;
