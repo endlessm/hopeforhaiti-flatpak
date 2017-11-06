@@ -8,5 +8,16 @@
       Hope for Haiti adventure game.
     </p>
   </description>
+  <screenshots>
+    <screenshot>
+      <image type="source">https://raw.githubusercontent.com/HopeForHaiti/Les-Aventures-de-Marie-Terese/master/Screens/1.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://raw.githubusercontent.com/HopeForHaiti/Les-Aventures-de-Marie-Terese/master/Screens/2.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://raw.githubusercontent.com/HopeForHaiti/Les-Aventures-de-Marie-Terese/master/Screens/3.png</image>
+    </screenshot>
+  </screenshots>
   <url type="homepage">https://github.com/HopeForHaiti/Les-Aventures-de-Marie-Terese</url>
 </application>
