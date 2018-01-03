@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <id type="desktop">com.github.HopeForHaiti.LesAdventuresDeMarieTerese.desktop</id>
+<component type="desktop">
+  <id>com.github.HopeForHaiti.LesAdventuresDeMarieTerese.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <summary>Adventure game</summary>
+  <project_license>MIT</project_license>
+  <name>Les Adventures de Marie-Thérèse</name>
+  <name xml:lang="fr">Les Adventures de Marie-Thérèse</name>
+  <summary>A French-to-English language learning adventure game</summary>
+  <summary xml:lang="fr">Un jeu d'aventure d'apprentissage du français à l'anglais</summary>
   <description>
     <p>
-      Hope for Haiti adventure game.
+      A French-to-English language learning adventure game. Play as Marie-Thérèse an adventurous young girl living in Haiti. Lead her through school, home and community life and learn English in a fun interactive way. This game is suitable for all ages, but focuses on the basics of the English language. Basic subjects of the English language covered include nouns, pronouns, adjectives, sentence parts and sentence structures. We hope you enjoy it!
+    </p>
+  </description>
+  <description xml:lang="fr">
+    <p>
+      Un jeu d'aventure d'apprentissage du français à l'anglais. Incarnez Marie-Thérèse, une jeune fille aventureuse vivant en Haïti. Menez-la à l'école, à la maison et dans la vie communautaire et apprenez l'anglais de façon interactive et amusante. Ce jeu est adapté à tous les âges, mais se concentre sur les bases de la langue anglaise. Les sujets de base de la langue anglaise couverte comprennent les noms, les pronoms, les adjectifs, les parties de phrases et les structures de phrases. Nous espérons que vous l'apprécierez!
     </p>
   </description>
   <screenshots>
@@ -20,4 +29,4 @@
     </screenshot>
   </screenshots>
   <url type="homepage">https://github.com/HopeForHaiti/Les-Aventures-de-Marie-Terese</url>
-</application>
+</component>
